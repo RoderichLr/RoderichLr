@@ -1,16 +1,29 @@
-### Hi there 👋
+# ¡Hola, soy Rodrigo! 👋
 
-<!--
-**RoderichLr/RoderichLr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí 🚀
+Soy un apasionado de la tecnología con experiencia en ingeniería mecatrónica y un fuerte interés en el desarrollo web. Estoy iniciando en el mundo del desarrollo de software como programador fullstack. Actualmente, trabajo como ingeniero electrónico, pero mi objetivo es dedicarme por completo al mundo del desarrollo de aplicaciones web y porque no tambien móviles.
 
-Here are some ideas to get you started:
+## Mis Habilidades como programador  💻
+- **Lenguajes de Programación:** Javascrip.
+- **Frontend:** HTML, CSS, bootstrap 5, React.js, Redux.js.
+- **Backend:** Node.js, Express, Django, Spring Boot, JWT, AWS. 
+- **Bases de Datos:** MySQL, MongoDB
+- **Control de Versiones:** Git, GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis Proyectos Destacados 🌟
+-En construcción.
+
+## Mis Contribuciones 🔧
+-En espera
+
+## Objetivos Futuros 🎯
+- Seguir aprendiendo y mejorando mis habilidades en desarrollo web y móvil.
+- Contribuir de manera significativa a proyectos de código abierto.
+- Explorar y dominar nuevas tecnologías y frameworks.
+
+## Contacto 📫
+- LinkedIn: ...
+- Correo Electrónico: rodrigo_lr7@hotmail.com
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si deseas colaborar en proyectos interesantes o simplemente charlar sobre tecnología y desarrollo.
+
