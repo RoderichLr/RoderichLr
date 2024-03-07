@@ -4,44 +4,44 @@ Soy un apasionado de la tecnología con experiencia en ingeniería mecatrónica 
 ## Mis Habilidades como programador  💻 
 
 <details>
-  <summary>Lenguajes de Programación</summary>
+  <summary>Lenguajes de Programación:</summary>
   
-  - JavaScript
+  - 💻 JavaScript
 </details>
 
 <details>
-  <summary>Frontend</summary>
+  <summary>Frontend:</summary>
   
-  - HTML 
-  - CSS
-  - Bootstrap 5
-  - React.js
-  - Redux.js
+  - 🌐 HTML 
+  - 🎨 CSS
+  - 🅱️ Bootstrap 5
+  - ⚛️ React.js
+  - 🔄 Redux.js
 </details>
 
 <details>
-  <summary>Backend</summary>
+  <summary>Backend:</summary>
 
-  - Node.js
-  - Express
-  - Django
-  - Spring Boot
-  - JWT
-  - AWS
+  - 🖥️ Node.js
+  - 🚀 Express
+  - 🐍 Django
+  - 🍃 Spring Boot
+  - 🔐 JWT
+  - ☁️ AWS
 </details>
 
 <details>
-  <summary>Bases de Datos</summary>
+  <summary>Bases de Datos:</summary>
 
-  - MySQL
-  - MongoDB
+  - 🗃️ MySQL
+  - 📊 MongoDB
 </details>
 
 <details>
   <summary>Control de Versiones:</summary>
 
-  - Git
-  - GitHub
+  - 📝 Git
+  - 💻 GitHub
 </details>
 
 ## Mis Proyectos Destacados 🌟
