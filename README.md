@@ -1,5 +1,5 @@
 ## Acerca de mí 🚀
-Soy un apasionado de la tecnología con experiencia en ingeniería mecatrónica y un fuerte interés en el desarrollo web. Estoy iniciando en el mundo del desarrollo de software como programador fullstack. Actualmente, trabajo como ingeniero electrónico, pero mi objetivo es dedicarme por completo al mundo del desarrollo de aplicaciones web y, por qué no, también móviles.
+Soy un apasionado de la tecnología con experiencia en ingeniería mecatrónica y un fuerte interés en el desarrollo web. Estoy iniciando en el mundo del desarrollo de software como programador fullstack. Actualmente, trabajo como ingeniero electrónico, pero mi objetivo es dedicarme por completo al mundo del desarrollo de aplicaciones web y porué no, también móviles.
 
 ## Mis Habilidades como programador  💻 
 
