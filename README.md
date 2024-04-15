@@ -24,7 +24,6 @@ Soy un apasionado de la tecnología con experiencia en ingeniería mecatrónica 
 
   - 🖥️ Node.js
   - 🚀 Express
-  - 🐍 Django
   - 🍃 Spring Boot
   - 🔐 JWT
   - ☁️ AWS
